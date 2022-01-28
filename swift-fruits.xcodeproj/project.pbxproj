@@ -58,6 +58,7 @@
 		00143D0827A389D000F77940 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		00143D0B27A392A800F77940 /* StartButttonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButttonView.swift; sourceTree = "<group>"; };
 		00143D0E27A394E000F77940 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		00143D1127A3979100F77940 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 				00143D0727A389B400F77940 /* View */,
 				00143D0327A3890C00F77940 /* App */,
 				00143CC927A383F300F77940 /* Assets.xcassets */,
+				00143D1127A3979100F77940 /* README.md */,
 			);
 			path = Frutas;
 			sourceTree = "<group>";
