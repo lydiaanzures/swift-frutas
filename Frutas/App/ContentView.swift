@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Shared
 //
-//  Created by Lydia Anzures on 1/27/22.
+//  Created by Lydia Anzures
 //
 
 import SwiftUI
