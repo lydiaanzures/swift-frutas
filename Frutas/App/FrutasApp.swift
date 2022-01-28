@@ -10,7 +10,7 @@ import SwiftUI
 
 @main
 
-struct swift_fruitsApp: App {
+struct FrutasApp: App {
     @AppStorage("isOnboarding") var isOnboarding: Bool = true
     
     var body: some Scene {
