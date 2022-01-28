@@ -2,7 +2,7 @@
 //  swift_fruitsApp.swift
 //  Shared
 //
-//  Created by Lydia Anzures on 1/27/22.
+//  Created by Lydia Anzures in January 2022.
 //
 
 import SwiftUI
